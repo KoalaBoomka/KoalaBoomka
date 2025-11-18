@@ -2,7 +2,7 @@
 **Aspiring Machine Learning & AI Engineer**  
 Turning data into intelligent solutions ⚡  
 
-Explore my interactive projects: [Portfolio](https://koalaboomka.github.io/)
+Explore my [Portfolio](https://koalaboomka.github.io/)
 
 ---
 
