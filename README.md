@@ -1,36 +1,55 @@
-# Hi, there! I'm Daria (Dasha) 👋  
-**Aspiring Machine Learning & AI Engineer**  
-Turning data into intelligent solutions ⚡  
+# Hi, I’m Daria (Dasha)
 
-Explore my [Portfolio](https://koalaboomka.github.io/)
+**Applied AI / Machine Learning Engineer**  
+I build data-driven, human-centered ML products, with a strong focus on delivery.
 
----
-
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+👉 **Portfolio:** [koalaboomka.github.io](https://koalaboomka.github.io/)
 
 ---
 
-## Selected Projects
+### What I work with
 
-### [inter-visual-streamlit](https://github.com/KoalaBoomka/inter-visual-streamlit)
-Interactive MPG Data Explorer – visualize fuel efficiency trends from UCI ML Repository.  
-
-### [netflix-disney-comparison](https://github.com/KoalaBoomka/netflix-disney-comparison)
-Analysis of Netflix vs Disney+ awards performance across Oscars and Golden Globes.  
-
-### Other Projects
-- ML models, Kaggle competitions, and AI experiments.  
+- Applied ML (including multimodal)
+- GenAI & agent-based systems
+- Embeddings & product analytics
+- Delivery leadership for ML-driven products
 
 ---
 
-## Connect with me
-[LinkedIn](https://www.linkedin.com/in/daria-tsarova-lenska) • [Email](mailto:d.tsarova.lenska@proton.me)
+### Featured work
+
+**Cross-border agent planner**
+
+<p align="center">
+  <a href="https://github.com/vapotapov/cross-border-agent">
+    <img src="assets/cross-border-agent-architecture.png" height="260" />
+  </a>
+</p>
+
+*Multi-agent architecture for parallel search, normalization, and itinerary optimization.*
 
 ---
 
-## Fun Fact
-I have several cats, and most of them are named after apple pies 🥧🐱
+**Streaming awards analytics (Netflix & Disney)**
+
+<p align="center">
+  <a href="https://github.com/KoalaBoomka/netflix-disney-comparison">
+    <img src="assets/netflix_disney_comparison_chart.png" height="260" />
+  </a>
+</p>
+
+*Analyzed how award-winning content (Oscars, Golden Globes) is distributed across Netflix and Disney catalogs by merging multiple public datasets.*
+
+---
+
+### Profiles
+[GitHub](https://github.com/KoalaBoomka) ·
+[Kaggle](https://www.kaggle.com/koalaboomka) ·
+[LeetCode](https://leetcode.com/u/KoalaBoomka/) ·
+[LinkedIn](https://www.linkedin.com/in/daria-tsarova-lenska) ·
+[Email](mailto:d.tsarova.lenska@proton.me)
+
+
+---
+
+<sub>Personal note: I have several cats. Most of them are named after apple pies.</sub>
