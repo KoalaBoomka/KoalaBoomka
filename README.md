@@ -26,7 +26,7 @@ I build data-driven, human-centered ML products, with a strong focus on delivery
   </a>
 </p>
 
-*Multi-agent architecture for parallel search, normalization, and itinerary optimization.*
+*Co-developed a multi-agent planning system to construct complex cross-border travel itineraries using Gemini-powered agents for reasoning, retrieval, and tool orchestration.*
 
 ---
 
